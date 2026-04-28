@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: RestClient_Springboot
+server:
+  port: 8082
